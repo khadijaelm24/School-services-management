@@ -7,13 +7,12 @@ This web application that is made using the following technologies: <br>
   <li>MySQL(For Relational Database's management) </li>
 </ul>
 Aims to enable students to: <br>
+
 <ul>
   <li>Request one or more of the four available school documents for a specific purpose.</li>
   <li>Submit a complaint if necessary.</li>
 </ul>
-The application validates all the information provided by students while filling out the form before definitively validating its submission for further administrative processing.<br>
-
-Also, this application enables administrators to access to their space, in order to: <br>
+The application validates all the information provided by students while filling out the form before definitively validating its submission for further administrative processing. In addition, this application enables administrators to access to their space, in order to: <br>
 
 <ul>
   <li>Consulting detailed statistics about the number of: threated and unthreated, validated and refused and requested documents, via the main dashboard</li>
