@@ -21,7 +21,8 @@ This web application is made using the following technologies: <br>
 
 ### Admin Space:
 
-The application validates all the information provided by students while filling out the form before definitively validating its submission for further administrative processing. In addition, this application enables administrators to access to their space, in order to: <br><br>
+The application validates all the information provided by students while filling out the form before definitively validating its submission for further administrative processing. In addition, this application enables administrators to access to their space, in order to: <br>
+
 
 <ul>
   <li>Consult detailed statistics about the number of: threated and unthreated, validated and refused and requested documents, via the main dashboard</li>
